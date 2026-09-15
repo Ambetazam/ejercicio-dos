@@ -44,8 +44,19 @@
 	color: 6f5d24;
 	background-color: 1a1a1a;
 }
+.main-title{
+	justify-content: center;
+	color: 6f5d24;
+	background-color: 1a1a1a;
+}
+.main-par{
+	justify-content: center;
+	color: a0a0a0;
+}
+
 .design{
 	rigth: 0;
+	justify-content: right;
 }
 
 
