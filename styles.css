@@ -70,7 +70,27 @@
 .h2-left{
 	justify-content: center;
 	color: 6f5d24;
+	left: 0;
 }
+.par-left{
+	justify-content: center;
+	color: a0a0a0;
+	left: 0;
+}
+.h2-rigth{
+	justify-content: center;
+	color: 6f5d24;
+	right: 0;	
+}
+.features-rigth{
+	justify-content: center;
+	color: a0a0a0;
+	rigth: 0;
+
+}
+
+
+
 
 .footer{
 	width: 75%;
