@@ -245,13 +245,13 @@ nav {
 	background-color: #121212;
 
 	display: flex;
-
 	justify-content: space-between;
 	align-items: center;
 
 	padding: 30px;
-}
 
+	border-top: 2px solid #6f5d24;
+}
 
 /* =========================
    FOOTER TEXT
