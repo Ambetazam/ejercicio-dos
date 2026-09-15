@@ -96,18 +96,21 @@
 	width: 75%;
 	heigth: 20%;
 	flex-direction: column;
+	background-color: 121212;
 }
 
 .under{
 	top: 1;
 }
 .footer-left{
-	justify-content: left;
+	justify-content: center;
 	color: a0a0a0;
+	left: 0;
 }
 .footer-rigth{
-	justify-content: rigth;
-	color: 6f5d24;		
+	justify-content: center;
+	color: 6f5d24;	
+	rigth: 0;	
 }
 
 
