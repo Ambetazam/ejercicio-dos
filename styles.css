@@ -67,9 +67,11 @@
 }
 .footer-left{
 	justify-content: left;
+	color: a0a0a0;
 }
 .footer-rigth{
-	justify-content: rigth;	
+	justify-content: rigth;
+	color: 6f5d24;		
 }
 
 
