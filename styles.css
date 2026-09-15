@@ -39,6 +39,38 @@
 }
 
 .hero{
+	width: 100%;
+	heigth: 48vh;
+	color: 6f5d24;
+	background-color: 1a1a1a;
 }
+.design{
+	rigth: 0;
+}
+
+
+
+
 .features{
+	width: 100%;
+	heigth: 32vh;
 }
+
+.footer{
+	width: 75%;
+	heigth: 20%;
+	flex-direction: column;
+}
+
+.under{
+	top: 1;
+}
+.footer-left{
+	justify-content: left;
+}
+.footer-rigth{
+	justify-content: rigth;	
+}
+
+
+
